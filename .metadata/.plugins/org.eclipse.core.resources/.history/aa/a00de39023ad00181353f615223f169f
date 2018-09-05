@@ -1,0 +1,10 @@
+package ExcecaoCriadas;
+
+public class TesteExcecaoCriada {
+	public static void main(String[] args) throws SemLetraBException {
+		String frase = "Sou um Teste";
+		if (!frase.contains("b") || !frase.contains("B")) {
+			throw new SemLetraBException();
+		}
+	}
+}

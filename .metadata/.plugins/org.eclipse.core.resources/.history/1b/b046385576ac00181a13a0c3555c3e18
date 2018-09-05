@@ -1,0 +1,15 @@
+package com.bsbr.altec.wtr.seriazable;
+
+import java.io.Serializable;
+
+import com.bsbr.altec.wtr.seriazable.Dog.Animal;
+
+public class Dog extends Animal implements Serializable {
+	String name;
+	Dog(int w, String n) {
+		weight = w; // inherited
+		name = n; // not inherited
+
+	}
+	
+}

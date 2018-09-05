@@ -1,0 +1,5 @@
+package tratamentoDeExcecao;
+
+public class SemLetraBException {
+
+}

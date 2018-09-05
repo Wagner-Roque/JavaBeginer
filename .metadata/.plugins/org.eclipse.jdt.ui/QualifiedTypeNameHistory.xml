@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.xml.ws.ServiceMode"/>
+<fullyQualifiedTypeName name="jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.time.Instant"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="com.bsbr.altec.wtr.seriazable.Dog.Animal"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="sun.net.www.http.HttpClient"/>
+<fullyQualifiedTypeName name="tratamentoDeExcecao.TesteString"/>
+<fullyQualifiedTypeName name="tratamentoDeExcecao.aumentaFrase"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="ExcecaoCriadas.SemLetraBException"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Environment"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>

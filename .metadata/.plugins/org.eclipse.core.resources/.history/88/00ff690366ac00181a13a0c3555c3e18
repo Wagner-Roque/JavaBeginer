@@ -1,0 +1,5 @@
+package com.bsbr.altec.wtr.seriazable;
+
+public class Animal {
+
+}
